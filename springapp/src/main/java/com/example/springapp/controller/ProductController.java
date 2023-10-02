@@ -1,4 +1,4 @@
-package com.example.inventory.controller;
+package com.example.springapp.controller;
 
 import com.example.springapp.model.Product;
 import com.example.springapp.repository.ProductRepository;
